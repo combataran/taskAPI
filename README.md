@@ -10,8 +10,8 @@
 
 ``` docker-compose up ```
 
-### Golang container logging `env bash does not exist`?
-Change line endings of the bash file from CRLF to LF
+### Golang container doesn't want to start?
+Change line endings of the `build.sh` file from CRLF to LF
 
 
 ### API Routes:
